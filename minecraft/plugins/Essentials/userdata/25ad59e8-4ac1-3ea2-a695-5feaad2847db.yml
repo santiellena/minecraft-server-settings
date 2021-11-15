@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 138.59.244.2
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1636876643410
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1636877732263
+  login: 1636873272318
+money: '0'
+last-account-name: EnanoHot
+lastlocation:
+  world: 5db17513-1797-4ebd-a84f-df56e2ed584f
+  world-name: world
+  x: 10299.300000011921
+  y: 11.0
+  z: 9799.195841864826
+  yaw: 4.1859130859375
+  pitch: 11.888559341430664
+homes:
+  home:
+    world: 5db17513-1797-4ebd-a84f-df56e2ed584f
+    world-name: world
+    x: 10260.671906926327
+    y: 70.0
+    z: 9966.829592049566
+    yaw: -179.78248596191406
+    pitch: 17.370420455932617
+logoutlocation:
+  world: 5db17513-1797-4ebd-a84f-df56e2ed584f
+  world-name: world
+  x: 10260.811205447018
+  y: 70.0
+  z: 9971.013768768576
+  yaw: -82.69654846191406
+  pitch: 35.75224685668945

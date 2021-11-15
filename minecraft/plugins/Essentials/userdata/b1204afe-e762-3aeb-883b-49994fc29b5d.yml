@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 138.59.246.34
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1636874605969
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1636874918919
+  login: 1636870970642
+money: '0'
+last-account-name: Rulitooo
+logoutlocation:
+  world: 5db17513-1797-4ebd-a84f-df56e2ed584f
+  world-name: world
+  x: 10331.989340092648
+  y: 72.0
+  z: 9919.184634216223
+  yaw: 113.2205810546875
+  pitch: -22.80045509338379
+lastlocation:
+  world: 5db17513-1797-4ebd-a84f-df56e2ed584f
+  world-name: world
+  x: 10113.16865333505
+  y: 11.0
+  z: 9977.61421235079
+  yaw: -178.79518127441406
+  pitch: 27.599260330200195
+homes:
+  home:
+    world: 5db17513-1797-4ebd-a84f-df56e2ed584f
+    world-name: world
+    x: 10112.320109163007
+    y: 11.0
+    z: 9981.349207433921
+    yaw: -170.1661376953125
+    pitch: 75.6368408203125
+  aldea:
+    world: 5db17513-1797-4ebd-a84f-df56e2ed584f
+    world-name: world
+    x: 10294.949155651053
+    y: 64.0
+    z: 9978.060194454423
+    yaw: 129.66790771484375
+    pitch: 62.10004425048828
+  spawner:
+    world: 5db17513-1797-4ebd-a84f-df56e2ed584f
+    world-name: world
+    x: 10083.146604697049
+    y: 16.0
+    z: 9964.554466111827
+    yaw: 134.62799072265625
+    pitch: 23.136871337890625

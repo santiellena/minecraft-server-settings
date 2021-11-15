@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 138.59.247.142
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1636875027167
+  login: 1636871794574
+money: '0'
+last-account-name: santi778
+lastlocation:
+  world: 5db17513-1797-4ebd-a84f-df56e2ed584f
+  world-name: world
+  x: 10311.178424683887
+  y: 63.9375
+  z: 9962.387689178799
+  yaw: 107.8499755859375
+  pitch: 2.2500064373016357
+logoutlocation:
+  world: 5db17513-1797-4ebd-a84f-df56e2ed584f
+  world-name: world
+  x: 10297.68268549262
+  y: 66.0
+  z: 9939.49560863904
+  yaw: 68.053955078125
+  pitch: 25.94983673095703

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 190.103.24.67
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1636830938557
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1636834472979
+  login: 1636830827442
+money: '0'
+last-account-name: Luep
+logoutlocation:
+  world: 5db17513-1797-4ebd-a84f-df56e2ed584f
+  world-name: world
+  x: 10289.621007989595
+  y: 67.0
+  z: 9946.225558919348
+  yaw: -133.45751953125
+  pitch: 18.599897384643555
+lastlocation:
+  world: 5db17513-1797-4ebd-a84f-df56e2ed584f
+  world-name: world
+  x: -756.1570032647395
+  y: 18.0
+  z: -1298.8025323599152
+  yaw: 19.22845458984375
+  pitch: 21.749814987182617
+homes:
+  home:
+    world: 5db17513-1797-4ebd-a84f-df56e2ed584f
+    world-name: world
+    x: -756.1570032647395
+    y: 18.0
+    z: -1298.8025323599152
+    yaw: 19.22845458984375
+    pitch: 21.749814987182617

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 179.62.85.26
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1636836975191
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1636841888914
+  login: 1636834671070
+money: '0'
+last-account-name: Joa10zubaran
+logoutlocation:
+  world: 5db17513-1797-4ebd-a84f-df56e2ed584f
+  world-name: world
+  x: 10301.344880054512
+  y: 71.0
+  z: 9902.985599927688
+  yaw: -21.8333740234375
+  pitch: 6.722980499267578
+lastlocation:
+  world: 5db17513-1797-4ebd-a84f-df56e2ed584f
+  world-name: world
+  x: 10297.300000011921
+  y: 7.0
+  z: 9924.219759353184
+  yaw: 60.839111328125
+  pitch: 21.526649475097656
+homes:
+  home:
+    world: 5db17513-1797-4ebd-a84f-df56e2ed584f
+    world-name: world
+    x: 10304.478732981052
+    y: 71.0
+    z: 9907.458082380865
+    yaw: -124.3251953125
+    pitch: 28.210712432861328

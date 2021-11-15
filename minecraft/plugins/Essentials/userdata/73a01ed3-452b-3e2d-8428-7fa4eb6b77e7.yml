@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 138.59.244.2
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1636877381868
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1636877584817
+  login: 1636871025074
+money: '0'
+last-account-name: elpupis
+homes:
+  home:
+    world: 5db17513-1797-4ebd-a84f-df56e2ed584f
+    world-name: world
+    x: 10448.911650256228
+    y: 64.0
+    z: 10007.731278921035
+    yaw: -92.83956909179688
+    pitch: 36.7498664855957
+logoutlocation:
+  world: 5db17513-1797-4ebd-a84f-df56e2ed584f
+  world-name: world
+  x: 10452.5
+  y: 64.0
+  z: 10009.5
+  yaw: 4.949995040893555
+  pitch: 0.4500000476837158
+lastlocation:
+  world: 5db17513-1797-4ebd-a84f-df56e2ed584f
+  world-name: world
+  x: 10449.325204266266
+  y: 10.0
+  z: 10014.584814749105
+  yaw: -70.18975830078125
+  pitch: -21.900117874145508
